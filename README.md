@@ -77,9 +77,10 @@ I will take one of them only.
   2. **Efficient**- Less time, space, and resources.
   3. Easy to implement.
 
-* We study the Efficient for both Time and space complexity, when we study it, this is called **Analysis**.
+We study the Efficient for both Time and space complexity, when we study it, this is called **Analysis**.
 
-When we create a new algorithm, we classify it into one of the categories of the **Algorithm Paradigms:** They are ways of thinking, such as
+ When we create a new algorithm, we classify it into one of the categories of the **Algorithm Paradigms:**
+  They are ways of thinking, such as
   - Greedy Algo. 
   - Divide and Conqure.  
   - Dynamic Programming. 
