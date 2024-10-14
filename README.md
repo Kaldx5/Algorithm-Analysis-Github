@@ -60,7 +60,7 @@ I will take one of them only.
 
 ## Screenshots
 
-![Types of Asymptotic Notations](photos\aa.png)
+![Types of Asymptotic Notations](photos/aa.png)
 
 
 ## Intro 
