@@ -63,7 +63,7 @@ I will take one of them only.
 
 
 ## Intro 
-![man](<img src="photos/tr.png" width="100" height="100">)
+![man](photos/tr.png)
  **This person wants to go to that building, but he does not know the correct way, so he asks someone and gets the answer as follows:**
  - Go right.
  - Take the train.
