@@ -25,11 +25,11 @@ I don’t yet know, but I’m excited to continue asking, ‘What did I learn to
 - Efficiency Challenge: Analyze an existing algorithm and aim to reduce its running time by 15%.
 
 
-I will take on of them only.
+I will take one of them only.
 
 ## Feedback
 
- I will ask my prof guidnes from time to time.
+ I will ask my professor guides from time to time.
 
  If you have any feedback, please let me know.
 
@@ -37,7 +37,7 @@ I will take on of them only.
 # Hi, I'm Khaled! 👋
 
 
-![Logo](photos\ka.png)
+![Logo](raw.photos\ka.png)
 
 
 ## Roadmap
@@ -65,23 +65,23 @@ I will take on of them only.
 
 ## Intro 
 ![man](photos\tr.png)
- **This person wants to go to that building, but he does not know the corecct way, so he asked someone, and got the answer as following:**
+ **This person wants to go to that building, but he does not know the correct way, so he asks someone and gets the answer as follows:**
  - Go right.
  - Take the train.
- - Get off at third stop.
+ - Get off at the third stop.
 This is called **Algorithm**, and to decide if the algorithm is good or not, do these steps:
  1. Correct- Result/Output.
- 2. **Efficient**- Less time, space, and resureses.
+ 2. **Efficient**- Less time, space, and resources.
  3. Easy to implement.
 
 * We study the Efficient for both Time and space complexity, when we study it, this is called **Analysis**.
 
-When we create a new algorithm, we classify it into one of the catagoiers of the **Algorithm Paradigms:** They are ways of thinking, such as
+When we create a new algorithm, we classify it into one of the categories of the **Algorithm Paradigms:** They are ways of thinking, such as
   - Greedy Algo. 
   - Divide and Conqure.  
-  - Dynemic Programming. 
+  - Dynamic Programming. 
   - Incremental. 
-  - Randomized/Probabilistics.
+  - Randomized/Probabilistic.
 
 ## Examples
 
