@@ -25,18 +25,19 @@ I don’t yet know, but I’m excited to continue asking, ‘What did I learn to
 - Efficiency Challenge: Analyze an existing algorithm and aim to reduce its running time by 15%.
 
 
-  I will take on of them only.
+I will take on of them only.
 
 ## Feedback
 
-I will ask my prof guidnes from time to time.
-If you have any feedback, please let me know.
+ I will ask my prof guidnes from time to time.
+
+ If you have any feedback, please let me know.
 
 
 # Hi, I'm Khaled! 👋
 
 
-![Logo](photos\KHALED ALREFAI (1).png)
+![Logo](photos\ka.png)
 
 
 ## Roadmap
