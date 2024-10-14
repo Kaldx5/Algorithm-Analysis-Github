@@ -37,7 +37,7 @@ I will take one of them only.
 # Hi, I'm Khaled! 👋
 
 
-![Logo](raw.photos\ka.png)
+![Logo](photos/ka.png)
 
 
 ## Roadmap
