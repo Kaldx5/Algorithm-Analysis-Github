@@ -70,10 +70,12 @@ I will take one of them only.
  - Go right.
  - Take the train.
  - Get off at the third stop.
-This is called **Algorithm**, and to decide if the algorithm is good or not, do these steps:
- 1. Correct- Result/Output.
- 2. **Efficient**- Less time, space, and resources.
- 3. Easy to implement.
+
+* This is called **Algorithm**, and to decide if the algorithm is good or not, do these steps:
+  
+  1. Correct- Result/Output.
+  2. **Efficient**- Less time, space, and resources.
+  3. Easy to implement.
 
 * We study the Efficient for both Time and space complexity, when we study it, this is called **Analysis**.
 
