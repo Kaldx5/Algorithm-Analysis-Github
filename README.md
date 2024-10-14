@@ -37,8 +37,7 @@ I will take one of them only.
 # Hi, I'm Khaled! 👋
 
 
-![Logo](photos/ka.png)
-
+<img src="photos/ka.png" width="100" height="100">
 
 ## Roadmap
 
