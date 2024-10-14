@@ -79,7 +79,7 @@ I will take one of them only.
   We study the efficiency for both Time and space complexity, when we study it, this is called **Analysis**.
  
   When we create a new algorithm, we classify it into one of the categories of the **Algorithm Paradigms:**
-  They are ways of thinking, such as
+   They are ways of thinking, such as
   - Greedy Algo. 
   - Divide and Conqure.  
   - Dynamic Programming. 
